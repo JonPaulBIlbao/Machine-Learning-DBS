@@ -1,4 +1,4 @@
-# 📘 Machine Learning in Finance (Python)
+# 📘 Machine Learning (Python)
 ### Deusto Business School — University of Deusto  
 **Academic Year 2025/2026**  
 Instructor: *Jon Paul Laka Mugarza*
